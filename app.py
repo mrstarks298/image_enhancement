@@ -1,5 +1,5 @@
 from flask import Flask, flash, request, redirect, url_for, render_template
-from werkzeug import secure_filename, url_quote
+from werkzeug import secure_filename, url_quote_plus
 import os
 from PIL import Image, ImageDraw, ImageFont
 import cv2
