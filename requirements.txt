@@ -1,6 +1,6 @@
-gunicorn==21.2.0
-werkzeug==3.0.1
+gunicorn
+werkzeug
 Flask
-Pillow==9.0.1
-opencv-python==4.5.4.68
+Pillow
+opencv-python
 
